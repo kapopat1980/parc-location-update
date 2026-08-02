@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper."
+title: "PARC: Adaptive Predictive Location Updating in Mobile Computing Networks"
+abstract: >-
+  Simulation code and results for four classical location update strategies
+  (time-, distance-, movement- and profile-based) and two proposed algorithms
+  (PARC and the hybrid PARC-H), evaluated over 560 paired per-subscriber
+  observations on a 127-cell hexagonal mesh.
+type: software
+license: MIT
+version: 1.0.0
+date-released: "2026-08-02"
+authors:
+  - family-names: "[SURNAME]"
+    given-names: "[GIVEN NAME]"
+    affiliation: "[AFFILIATION]"
+    orcid: "https://orcid.org/[0000-0000-0000-0000]"
+keywords:
+  - location management
+  - location update
+  - paging
+  - mobility management
+  - mobile computing
+references:
+  - type: article
+    title: >-
+      Exploiting Subscriber Mobility Regularity for Adaptive Location Updating
+      in Mobile Computing Networks
+    authors:
+      - family-names: "[SURNAME]"
+        given-names: "[GIVEN NAME]"
+    year: 2026
