@@ -1,1 +1,22 @@
-
+{
+  "title": "PARC: Adaptive Predictive Location Updating in Mobile Computing Networks — Simulation Code and Results",
+  "description": "Simulation code, raw per-subscriber results and analysis scripts for the paper 'Exploiting Subscriber Mobility Regularity for Adaptive Location Updating in Mobile Computing Networks'. Implements four classical location update strategies (time-based, distance-based, movement-based, profile-based) and two proposed algorithms (PARC and the hybrid PARC-H) on a 127-cell hexagonal mesh under three mobility models across seven call-to-mobility ratio operating points, with 560 paired per-subscriber observations.",
+  "upload_type": "software",
+  "license": "mit-license",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Popat Kalpesh",
+      "affiliation": "Marwadi University"
+    }
+  ],
+  "keywords": [
+    "location management",
+    "location update",
+    "paging",
+    "mobility management",
+    "call-to-mobility ratio",
+    "mobile computing"
+  ],
+  "language": "eng"
+}
